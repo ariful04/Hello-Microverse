@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <img src="pair-programming" alt="logo" width="140"  height="auto" />
+  <img src="pair-programming.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
